@@ -1,1 +1,5 @@
-story summary 
+Summary : API based multiplayer login game
+
+Game name>> :  player test  
+The game will begin with a multiplayer mode for those who are interested in an API-based game. It includes 20 rooms, all of which are connected with the exception of two. It first checks whether the user exited in the player folder or the database, and if it does not, it will create a new user with his credentials in jsaon format and save it in the player folder, and there is a room called alien technology where the user can win if he or she ends up in that room, where the user will find the treasure and win the game, and which will automatically allow the user to exit the game. There is another room called asteroids where the user may lose the game because asteroids and comets are in the way of a spacecraft and it will exit the game. There are four   APIs  and one animation that are used in this game which are in triggered based on the condition   that are set in game map   . Two characters are introduced to aid commerce and decide player health by adjusting the quantity of money, which is then used to buy or sell and continue the game .
+
